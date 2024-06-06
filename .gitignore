@@ -15,3 +15,5 @@ __pycache__/
 # ignore dataset folder in chapter_4
 food_101/*.*
 *.tar.gz
+going_modular/
+wandb/
