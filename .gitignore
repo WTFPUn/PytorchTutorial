@@ -1,5 +1,8 @@
 # ignore weight file
 *.pt2
+*.pth
+*.h5
+*.pt
 
 # ignore pycache
 __pycache__/
