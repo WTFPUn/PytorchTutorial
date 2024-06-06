@@ -3,3 +3,12 @@
 
 # ignore pycache
 __pycache__/
+
+# ignore image files
+*.png
+*.jpg
+*.jpeg
+
+# ignore dataset folder in chapter_4
+food_101/*.*
+*.tar.gz
